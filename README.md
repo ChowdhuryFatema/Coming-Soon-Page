@@ -9,4 +9,4 @@ This project shows how to a background image that covers the entire page and how
 -JavaScript </br>
 
 ### Demo
-![Uploading Screenshot_1.png…]()
+![Uploading screencapture-127-0-0-1-5500-index-html-2023-11-11-20_54_25.png…]()
