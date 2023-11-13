@@ -7,5 +7,5 @@ https://chowdhuryfatema.github.io/Coming-Soon-Page/
 This  project is a remainder when a website has a new functionality.
 ## Technologies
 -Html5 </br>
--Row CSS </br>
+-Raw CSS </br>
 -JavaScript
