@@ -27,6 +27,7 @@
 .content h1 {
     font-size: 64px;
     font-weight: 600;
+    margin-bottom: 20px;
 }
 .content h1 span {
     color: #ff3753;
@@ -46,11 +47,12 @@
     width: 15px;
     margin-left: 10px;
 }
+
 .launch-time {
     display: flex;
 }
 .launch-time div {
-    flex-basis: 100px;
+    flex-basis: 150px;
 }
 .launch-time div p {
     font-size: 60px;
@@ -72,5 +74,19 @@
     100%{
         bottom: 105%;
         opacity: 1;
+    }
+}
+@media screen and (max-width: 960px) {
+    .content h1 {
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .launch-time div p {
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .content h1, .launch-time div p {
+        font-size: 30px;
     }
 }
